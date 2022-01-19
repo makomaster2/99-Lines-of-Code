@@ -1,0 +1,16 @@
+body {
+    background: rgb(93, 93, 255);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 255, 34);
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.friend {
+    background: rgb(0, 185, 154);
+}
