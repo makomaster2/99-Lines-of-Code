@@ -12,26 +12,3 @@ for (i = 0; i < friends.length; i++) {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//99 lines of code in the file, 99 lines of code; John strikes one out, clears it all out, 98 lines of code in the file
